@@ -1,0 +1,11 @@
+Model Information:
+* title:	Glasses
+* source:	https://sketchfab.com/3d-models/glasses-05e2b8aa48e9486680b5dac3525642f0
+* author:	maia_designs (https://sketchfab.com/maia_designs)
+
+Model License:
+* license type:	CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)
+* requirements:	Author must be credited. No commercial use.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Glasses" (https://sketchfab.com/3d-models/glasses-05e2b8aa48e9486680b5dac3525642f0) by maia_designs (https://sketchfab.com/maia_designs) licensed under CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)
